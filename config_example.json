@@ -1,0 +1,119 @@
+{
+  "business_info": {
+    "name": "Sunrae's Beauty Bar & Spa",
+    "phone": "UPDATE_PHONE",
+    "location": "Nashville, TN",
+    "full_address": "FULL STREET ADDRESS HERE",
+    "website": "sunraesbeauty.as.me",
+    "booking_url": "https://sunraesbeauty.as.me/schedule/975618b2",
+    "email": "UPDATE_EMAIL",
+    "instagram": "@sunraesbeauty",
+    "hours": {
+      "Monday": "By Appointment",
+      "Tuesday": "By Appointment",
+      "Wednesday": "By Appointment",
+      "Thursday": "By Appointment",
+      "Friday": "By Appointment",
+      "Saturday": "By Appointment",
+      "Sunday": "By Appointment"
+    }
+  },
+  "services": {
+    "lash_extensions": {
+      "Classic Lashes Full Set": 150,
+      "Classic Lashes Fill": 75,
+      "Hybrid Lashes Full Set": 175,
+      "Hybrid Lashes Fill": 85,
+      "Volume Lashes Full Set": 200,
+      "Volume Lashes Fill": 95,
+      "Wispy Lashes Full Set": 200,
+      "Wispy Lashes Fill": 95,
+      "Mega Volume Full Set": 250,
+      "Mega Volume Fill": 115
+    },
+    "lash_services": {
+      "Lash Lift": 75,
+      "Lash Tint": 25,
+      "Lash Lift & Tint": 95,
+      "Lash Removal": 30
+    },
+    "brow_services": {
+      "Brow Waxing": 20,
+      "Brow Threading": 20,
+      "Brow Tinting": 25,
+      "Brow Lamination": 75,
+      "Brow Lamination & Tint": 95
+    },
+    "facial_services": {
+      "Facial": 85,
+      "Dermaplaning": 75,
+      "Facial & Dermaplaning": 150
+    }
+  },
+  "policies": {
+    "deposit": {
+      "required": true,
+      "amount": "$25",
+      "percentage": null,
+      "refundable": false,
+      "details": "A $25 deposit is required to secure your appointment. Deposits are non-refundable but will be applied to your service total."
+    },
+    "cancellation": {
+      "notice_hours": 24,
+      "policy_text": "Please provide at least 24 hours notice for cancellations or rescheduling. Cancellations with less than 24 hours notice or no-shows will result in loss of deposit."
+    },
+    "late_arrival": {
+      "grace_period_minutes": 15,
+      "policy_text": "We understand delays happen! Please call if you're running late. Arrivals more than 15 minutes late may need to be rescheduled and could result in loss of deposit."
+    },
+    "payment_methods": [
+      "Credit Cards",
+      "Debit Cards",
+      "Cash",
+      "Venmo",
+      "Cash App"
+    ],
+    "first_time_clients": {
+      "patch_test_recommended": true,
+      "consultation_included": true,
+      "extra_time_needed": true
+    }
+  },
+  "lash_care_instructions": {
+    "after_appointment": [
+      "Keep lashes dry for the first 24 hours",
+      "Avoid steam, saunas, and hot showers for 24 hours",
+      "Do not rub or pull on your lashes"
+    ],
+    "daily_care": [
+      "Brush lashes gently each morning with a clean spoolie",
+      "Clean lashes daily with lash extension-safe cleanser",
+      "Avoid oil-based products around the eye area",
+      "Sleep on your back when possible"
+    ],
+    "maintenance": [
+      "Book fills every 2-3 weeks",
+      "Never pick or pull at extensions",
+      "Come in for professional removal when needed"
+    ],
+    "avoid": [
+      "Oil-based makeup and removers",
+      "Waterproof mascara",
+      "Rubbing or pulling at lashes",
+      "Sleeping on your face",
+      "Eyelash curlers"
+    ]
+  },
+  "faq": {
+    "How long do lash extensions last?": "Lash extensions typically last 4-6 weeks with proper care, but we recommend getting fills every 2-3 weeks to maintain fullness as your natural lashes shed naturally.",
+    "Does it hurt?": "No! The application is completely painless. Most clients find it so relaxing they fall asleep during the service.",
+    "How long does it take?": "Full sets typically take 1.5-2.5 hours depending on the style. Fills usually take 45-90 minutes.",
+    "Can I wear makeup?": "Yes, but avoid oil-based makeup and makeup removers. We recommend using lash extension-safe products.",
+    "How do I prepare?": "Come with clean lashes (no makeup), and avoid caffeine before your appointment as it can make your eyes flutter.",
+    "Classic vs Hybrid vs Volume?": "Classic gives a natural mascara look, Volume creates dramatic fullness, and Hybrid is a mix of both for a fuller but natural appearance.",
+    "Do I need a patch test?": "We recommend a patch test if you have sensitive eyes or have never had lash extensions before.",
+    "Can I swim?": "Yes, after the initial 24-hour curing period. Just be gentle and pat dry instead of rubbing.",
+    "What if I'm not happy?": "Your satisfaction is our priority! Please let us know immediately and we'll work to make it right.",
+    "Free consultation?": "Yes! We offer free consultations to discuss your desired look and answer any questions."
+  }
+}
